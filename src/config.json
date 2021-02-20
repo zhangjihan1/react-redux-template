@@ -1,0 +1,13 @@
+{
+    "api": {
+        "USER": "https://jdgfeuab54.execute-api.ap-southeast-2.amazonaws.com/tasklistapp-dev",
+        "TASK": "https://11bbbn6v31.execute-api.ap-southeast-2.amazonaws.com/tasklistapp-dev",
+        "MESSAGE": "https://qnv9x8z169.execute-api.ap-southeast-2.amazonaws.com/tasklistapp-dev"
+    },
+    "cognito": {
+        "REGION": "ap-southeast-2",
+        "USER_POOL_ID": "ap-southeast-2_SoJugZITy",
+        "APP_CLIENT_ID": "2emgutu202tnq81rjhf3jor05i"
+    }
+}
+
